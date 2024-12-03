@@ -1,0 +1,51 @@
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.vspscc
+*.vssscc
+
+# User-specific files
+# Uncomment if you have Visual Studio 2019 or later
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Azure Functions Tools
+local.settings.json
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Tye (if using Tye for microservices)
+.tye/
+
+# JetBrains Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Thumbs.db
+Thumbs.db
